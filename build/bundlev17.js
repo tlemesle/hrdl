@@ -5465,7 +5465,7 @@ var app = function() {
             }, r
         }()
     }));
-    const On = ue(["The Shaggs - My Companion", "Jacques Brel - La bière", "Kajagoogoo - Too Shy (2004 Remaster)", "Bat For Lashes - Rest Your Head", "The Bangles - Eternal Flame", /*"Johnny Hallyday - Poème sur la 7ème" ,*/ "Björk - Pagan Poetry", "Emir Kusturica and The No Smoking Orchestra - Hamburger Versa Kebab" ,"Editors - Munich","MaryJBlige - Family Affair" ,"Nada Surf — Meow Meow Lullaby","Soft Cell - Tainted Love" ,"Earth, Wind & Fire - September","Blue Swede - Hooked On A Feeling" ,"The Killers - Mr. Brightside","Rusted Root - Send Me On My Way" ,"The Monkees - I'm A Believer" ,"John Denver - Take Me Home, Country Roads","Sting - Englishman In New York" ,"The Steve Miller Band - The Joker" ,"Toto - Africa" ,"Blondie - Heart Of Glass" ,"Stevie Wonder - Sir Duke" ,"Elton John - Rocket Man","Katerine - Le 20-04-2005" ,"Katerine - J'aime tes fesses" ,"Katerine, Françis Et Ses Peintres - Partir un jour" ,"Spice Girls - Wannabe" ,"Thin Lizzy - The Boys Are Back In Town",/*"Nirvana - Lithium" ,*/"Katy Perry - Roar","Sexion D'Assaut - Casquette à l'envers" ,"anderson .paak - Who R U?" ,"Stupeflip - Apocalypse 894","Dorothée - Allô allô monsieur l'ordinateur" ,"Wolfmother - White Unicorn","Smashing Pumpkins - Bullet With Butterfly Wings","Cage The Elephant - Ain't No Rest For The Wicked","Arctic Monkeys - R U Mine?" ,"The Offspring - Come Out and Play" ,"Arctic Monkeys - I Bet You Look Good On The Dancefloor","Presidents of the United States of America - Lump","Massive Attack - Teardrop" ,"Billie Eilish - bad guy","The xx - Intro" ,"EELS - That Look You Give That Guy" ,"Grizzly Bear - Two Weeks" /*,"London Grammar - Wasting My Young Years"*/ ,"The Doors - Riders On The Storm" ,"Doom - At Doom's Gate"]),
+    const On = ue(["The Shaggs - My Companion", "Jacques Brel - La bière", "Bat For Lashes - Rest Your Head", "The Bangles - Eternal Flame", /*"Johnny Hallyday - Poème sur la 7ème" ,*/ "Björk - Pagan Poetry", "Emir Kusturica and The No Smoking Orchestra - Hamburger Versa Kebab" ,"Editors - Munich","MaryJBlige - Family Affair" ,"Nada Surf — Meow Meow Lullaby","Soft Cell - Tainted Love" ,"Earth, Wind & Fire - September","Blue Swede - Hooked On A Feeling" ,"The Killers - Mr. Brightside","Rusted Root - Send Me On My Way" ,"The Monkees - I'm A Believer" ,"John Denver - Take Me Home, Country Roads","Sting - Englishman In New York" ,"The Steve Miller Band - The Joker" ,"Toto - Africa" ,"Blondie - Heart Of Glass" ,"Stevie Wonder - Sir Duke" ,"Elton John - Rocket Man","Katerine - Le 20-04-2005" ,"Katerine - J'aime tes fesses" ,"Katerine, Françis Et Ses Peintres - Partir un jour" ,"Spice Girls - Wannabe" ,"Thin Lizzy - The Boys Are Back In Town",/*"Nirvana - Lithium" ,*/"Katy Perry - Roar","Sexion D'Assaut - Casquette à l'envers" ,"anderson .paak - Who R U?" ,"Stupeflip - Apocalypse 894","Dorothée - Allô allô monsieur l'ordinateur" ,"Wolfmother - White Unicorn","Smashing Pumpkins - Bullet With Butterfly Wings","Cage The Elephant - Ain't No Rest For The Wicked","Arctic Monkeys - R U Mine?" ,"The Offspring - Come Out and Play" ,"Arctic Monkeys - I Bet You Look Good On The Dancefloor","Presidents of the United States of America - Lump","Massive Attack - Teardrop" ,"Billie Eilish - bad guy","The xx - Intro" ,"EELS - That Look You Give That Guy" ,"Grizzly Bear - Two Weeks" /*,"London Grammar - Wasting My Young Years"*/ ,"The Doors - Riders On The Storm" ,"Doom - At Doom's Gate"]),
         Ln = {
             subscribe: ue([{
                 url: "https://soundcloud.com/officialmaryjblige/family-affair-1",
@@ -5528,9 +5528,6 @@ var app = function() {
                 url: "https://soundcloud.com/batforlashes/rest-your-head-1?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Bat For Lashes - Rest Your Head"
             }, {
-                url: "https://soundcloud.com/kajagoogoo-official/too-shy-2004-remastered?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Kajagoogoo - Too Shy"
-            }, {
                 url: "https://soundcloud.com/thexxofficial/intro?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "The xx - Intro"
             }, {
@@ -5573,12 +5570,6 @@ var app = function() {
                 url: "https://soundcloud.com/john-denver-official/take-me-home-country-roads-5?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "John Denver - Take Me Home, Country Roads"
             }, {
-                url: "https://soundcloud.com/emirkusturicaandthenosmokingorchestra/hamburger-versa-kebab?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Emir Kusturica and The No Smoking Orchestra - Hamburger Versa Kebab"
-            }, {
-                url: "https://soundcloud.com/dorothee-official/allo-allo-monsieur-1?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Dorothée - Allô allô monsieur l'ordinateur"
-            }, {
                 url: "https://soundcloud.com/bjork/pagan-poetry-album-version?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Björk - Pagan Poetry"
             }, {
@@ -5605,9 +5596,6 @@ var app = function() {
             }, {
                 url: "https://soundcloud.com/spice-girls-official/wannabe-radio-edit",
                 answer: "Spice Girls - Wannabe"
-            }, {
-                url: "https://soundcloud.com/theshaggsofficial/my-companion?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "The Shaggs - My Companion"
             }, {
                 url: "https://soundcloud.com/blondie/heart-of-glass?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Blondie - Heart Of Glass"
