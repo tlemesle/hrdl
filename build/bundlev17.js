@@ -5528,6 +5528,9 @@ var app = function() {
                 url: "https://soundcloud.com/batforlashes/rest-your-head-1?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Bat For Lashes - Rest Your Head"
             }, {
+                url: "https://soundcloud.com/blue-swede/hooked-on-a-feeling?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+                answer: "Blue Swede - Hooked On A Feeling"
+            }, {
                 url: "https://soundcloud.com/thexxofficial/intro?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "The xx - Intro"
             }, {
@@ -5543,20 +5546,17 @@ var app = function() {
                 url: "https://soundcloud.com/the-bangles-official/eternal-flame-3?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "The Bangles - Eternal Flame"
             }, {
-                url: "https://soundcloud.com/doom-1993/at-dooms-gate?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Doom - At Doom's Gate"
-            }, {
                 url: "https://soundcloud.com/elton-john/rocket-man-i-think-its-going-1?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Elton John - Rocket Man"
+            }, {
+                url: "https://soundcloud.com/doom-1993/at-dooms-gate?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+                answer: "Doom - At Doom's Gate"
             }, {
                 url: "https://soundcloud.com/massiveattack/teardrop?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Massive Attack - Teardrop"
             }, {
                 url: "https://soundcloud.com/katerine-official/le-20-04-2005-1?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Katerine - Le 20-04-2005"
-            }, {
-                url: "https://soundcloud.com/blue-swede/hooked-on-a-feeling?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
-                answer: "Blue Swede - Hooked On A Feeling"
             }, {
                 url: "https://soundcloud.com/arcticmonkeys/i-bet-you-look-good-on-the?in=thibault-lemesle/sets/hrdl&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
                 answer: "Arctic Monkeys - I Bet You Look Good On The Dancefloor"
